@@ -1,1 +1,2 @@
-I am feature branch.
+I am feature branch. 
+now merged!
